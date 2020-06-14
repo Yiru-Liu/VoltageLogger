@@ -15,7 +15,7 @@ using namespace std;
 
 int main(int argv, char** args) {
     ShowWindow(GetConsoleWindow(), SW_HIDE);
-    char path[] = R"(C:\Users\Biotree\Desktop\VoltageLog.csv)";  // path of the .csv file
+    char path[] = R"(C:\Users\<your username here>\Desktop\VoltageLog.csv)";  // path of the .csv file
     ifstream toCheckIfExists(path);
     if(toCheckIfExists.good()) {
         if(MessageBox(NULL, "VoltageLog.csv already exists. Would you like to overwrite VoltageLog.csv?", "Confirm Overwrite", MB_YESNO | MB_ICONWARNING | MB_DEFBUTTON2) == IDNO) {
