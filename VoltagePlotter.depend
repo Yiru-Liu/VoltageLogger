@@ -374,19 +374,3 @@
 	<windows.h>
 	"Screen.h"
 
-1524929755 source:c:\users\jx\dropbox\c++\arduinosketchbook\projects\voltageplogger\main.cpp
-	<iostream>
-	<fstream>
-	<SDL2/SDL.h>
-	<windows.h>
-	"Screen.h"
-
-1524871639 c:\users\jx\dropbox\c++\arduinosketchbook\projects\voltageplogger\include\screen.h
-	<SDL2/SDL.h>
-	<cstring>
-	<math.h>
-	<algorithm>
-
-1524871371 source:c:\users\jx\dropbox\c++\arduinosketchbook\projects\voltageplogger\src\screen.cpp
-	"Screen.h"
-
