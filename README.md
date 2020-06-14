@@ -12,17 +12,17 @@ Note: As of now, this program only works on Windows.
 #### Set up computer:
 1. Install [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) if not already installed.
 2. Open PuTTY, then:
-  1. In the "Category" menu, select "Logging".
-  7. Under "Session logging", select "All session output".
-  8. Under "Log file name:", enter "C:\\Users\\\<your username here\>\\Desktop\\VoltageLog.csv" (replacing "\<your username here\>" with your Windows username).
-  4. Under "What to do if the log file already exists", select "Always overwrite it".
-  5. In the "Category" menu, select "Session".
-  6. Under "Connection type", select "Serial".
-  7. Under "Speed", enter 9600.
-  8. Under "Serial line", enter the COM Port of the Arduino Uno.
-  9. In the text field under "Saved Sessions", enter "ArduinoVoltageLogger".
-  10. Press "Save" under "Load, save or delete a stored session".
-  11. Exit PuTTY.
+	1. In the "Category" menu, select "Logging".
+	2. Under "Session logging", select "All session output".
+	3. Under "Log file name:", enter "C:\\Users\\\<your username here\>\\Desktop\\VoltageLog.csv" (replacing "\<your username here\>" with your Windows username).
+	4. Under "What to do if the log file already exists", select "Always overwrite it".
+	5. In the "Category" menu, select "Session".
+	6. Under "Connection type", select "Serial".
+	7. Under "Speed", enter 9600.
+	8. Under "Serial line", enter the COM Port of the Arduino Uno.
+	9. In the text field under "Saved Sessions", enter "ArduinoVoltageLogger".
+	10. Press "Save" under "Load, save or delete a stored session".
+	11. Exit PuTTY.
 
 3. Install [Code Blocks](http://www.codeblocks.org/) if not already installed.
 4. Open VoltagePlotter.cbp using Code Blocks.
@@ -31,7 +31,7 @@ Note: As of now, this program only works on Windows.
 7. Go to .\\bin\\Release, and copy VoltagePlotter.exe to C:\\Program Files\\VoltagePlotter .
 8. Create a Start Menu shortcut to C:\\Program Files\\VoltagePlotter for easy access.
 
-### Use Instructions
+### Instructions for Use
 
 The software creates and writes data to a file named "VoltageLog.csv" on the desktop. When the program starts, it will check to see if there is already a file named "VoltageLog.csv" on the desktop. If so, it will prompt the user whether to overwrite the file or not, as shown in the following image: 
 
