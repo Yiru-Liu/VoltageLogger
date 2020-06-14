@@ -21,4 +21,4 @@ This project uses an Arduino Uno to continuously read an analog voltage signal b
 	
 
 ### Example
-![]("screenshot.png")
+![](./screenshot.png)
