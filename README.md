@@ -17,7 +17,7 @@ This project uses an Arduino Uno to continuously read an analog voltage signal b
 	5. In the text field under "Saved Sessions", enter "ArduinoVoltageLogger".
 	6. In the "Category" menu, select "Logging".
 	7. Under "Session logging", select "All session output".
-	8. Under "Log file name:", enter "C:\Users\<your username here>\Desktop\VoltageLog.csv", replacing "<your username here>" with your username.
+	8. Under "Log file name:", enter "C:\\Users\\\<your username here\>\\Desktop\\VoltageLog.csv" (replacing "\<your username here\>" with your username).
 	
 
 ### Example
