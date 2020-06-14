@@ -23,13 +23,12 @@ Note: As of now, this program only works on Windows.
 	9. In the text field under "Saved Sessions", enter "ArduinoVoltageLogger".
 	10. Press "Save" under "Load, save or delete a stored session".
 	11. Exit PuTTY.
-
 3. Install [Code Blocks](http://www.codeblocks.org/) if not already installed.
 4. Open VoltagePlotter.cbp using Code Blocks.
 5. Open main.cpp. On line 18, replace "\<your username here\>" with your Windows username.
 6. Set the build target to "Release" and press "Build".
 7. Go to .\\bin\\Release, and copy VoltagePlotter.exe to C:\\Program Files\\VoltagePlotter .
-8. Create a Start Menu shortcut to C:\\Program Files\\VoltagePlotter for easy access.
+8. Create a Start Menu shortcut to C:\\Program Files\\VoltagePlotter\\VoltagePlotter.exe for easy access.
 
 ### Instructions for Use
 
