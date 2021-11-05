@@ -46,6 +46,6 @@ To quit the program, close both the PuTTY window and the Live Voltage Plot windo
 
 ### Example
 <img src="./screenshot.png">
-<img src="./sensor2.jpg" height="500px">
-<img src="./sensor3.jpg" height="500px">
+<img src="./sensor2.jpg" height="600px">
+<img src="./sensor3.jpg" height="600px">
 <img src="./sensor1.JPG">
