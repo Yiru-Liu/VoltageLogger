@@ -44,8 +44,8 @@ To start logging the voltage signal, make sure that the PuTTY window is active, 
 
 To quit the program, close both the PuTTY window and the Live Voltage Plot window.
 
-### Examples
-![](./screenshot.png)
-![](./sensor2.jpg)
-![](./sensor3.jpg)
-![](./sensor1.JPG)
+### Example
+<img src="./screenshot.png">
+<img src="./sensor2.jpg" height="500px">
+<img src="./sensor3.jpg" height="500px">
+<img src="./sensor1.JPG">
