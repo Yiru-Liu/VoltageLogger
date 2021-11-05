@@ -48,4 +48,4 @@ To quit the program, close both the PuTTY window and the Live Voltage Plot windo
 ![](./screenshot.png)
 ![](./sensor2.jpg)
 ![](./sensor3.jpg)
-![](./sensor1.jpg)
+![](./sensor1.JPG)
